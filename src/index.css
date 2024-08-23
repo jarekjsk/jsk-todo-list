@@ -1,0 +1,19 @@
+:root {
+    --main-color: rgb(244, 170, 161);
+    --secondary-color: beige;
+    --border-color: rgb(93, 93, 93);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--main-color);
+    display: flex;
+    justify-content: center;
+
+}

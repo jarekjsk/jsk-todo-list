@@ -1,0 +1,15 @@
+
+.list_element {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.element {
+    width: 200px;
+}
+
